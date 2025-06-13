@@ -4,7 +4,7 @@
 
 ### Avisos
 
-Usar apenas para desenvolvimento local. Adaptações são necessárias caso deseje publicar o website em produto.
+Usar apenas para desenvolvimento local. Adaptações são necessárias caso deseje publicar o website em produção.
 
 ## 💻 Pré-requisitos
 
